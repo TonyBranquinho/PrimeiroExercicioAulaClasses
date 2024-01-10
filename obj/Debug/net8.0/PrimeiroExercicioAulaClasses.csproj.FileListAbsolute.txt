@@ -1,0 +1,28 @@
+C:\temp\ws-c#orientadoobjeto\PrimeiroExercicioAulaClasses\PrimeiroExercicioAulaClasses\obj\Debug\net8.0\PrimeiroExercicioAulaClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-c#orientadoobjeto\PrimeiroExercicioAulaClasses\PrimeiroExercicioAulaClasses\obj\Debug\net8.0\PrimeiroExercicioAulaClasses.AssemblyInfoInputs.cache
+C:\temp\ws-c#orientadoobjeto\PrimeiroExercicioAulaClasses\PrimeiroExercicioAulaClasses\obj\Debug\net8.0\PrimeiroExercicioAulaClasses.AssemblyInfo.cs
+C:\temp\ws-c#orientadoobjeto\PrimeiroExercicioAulaClasses\PrimeiroExercicioAulaClasses\obj\Debug\net8.0\PrimeiroExercicioAulaClasses.csproj.CoreCompileInputs.cache
+C:\temp\ws-c#orientadoobjeto\PrimeiroExercicioAulaClasses\PrimeiroExercicioAulaClasses\bin\Debug\net8.0\PrimeiroExercicioAulaClasses.exe
+C:\temp\ws-c#orientadoobjeto\PrimeiroExercicioAulaClasses\PrimeiroExercicioAulaClasses\bin\Debug\net8.0\PrimeiroExercicioAulaClasses.deps.json
+C:\temp\ws-c#orientadoobjeto\PrimeiroExercicioAulaClasses\PrimeiroExercicioAulaClasses\bin\Debug\net8.0\PrimeiroExercicioAulaClasses.runtimeconfig.json
+C:\temp\ws-c#orientadoobjeto\PrimeiroExercicioAulaClasses\PrimeiroExercicioAulaClasses\bin\Debug\net8.0\PrimeiroExercicioAulaClasses.dll
+C:\temp\ws-c#orientadoobjeto\PrimeiroExercicioAulaClasses\PrimeiroExercicioAulaClasses\bin\Debug\net8.0\PrimeiroExercicioAulaClasses.pdb
+C:\temp\ws-c#orientadoobjeto\PrimeiroExercicioAulaClasses\PrimeiroExercicioAulaClasses\obj\Debug\net8.0\PrimeiroExercicioAulaClasses.dll
+C:\temp\ws-c#orientadoobjeto\PrimeiroExercicioAulaClasses\PrimeiroExercicioAulaClasses\obj\Debug\net8.0\refint\PrimeiroExercicioAulaClasses.dll
+C:\temp\ws-c#orientadoobjeto\PrimeiroExercicioAulaClasses\PrimeiroExercicioAulaClasses\obj\Debug\net8.0\PrimeiroExercicioAulaClasses.pdb
+C:\temp\ws-c#orientadoobjeto\PrimeiroExercicioAulaClasses\PrimeiroExercicioAulaClasses\obj\Debug\net8.0\PrimeiroExercicioAulaClasses.genruntimeconfig.cache
+C:\temp\ws-c#orientadoobjeto\PrimeiroExercicioAulaClasses\PrimeiroExercicioAulaClasses\obj\Debug\net8.0\ref\PrimeiroExercicioAulaClasses.dll
+C:\temp\ws-c#orientadoobjeto\PrimeiroExercicioAulaClasses - Copia\PrimeiroExercicioAulaClasses\bin\Debug\net8.0\PrimeiroExercicioAulaClasses.exe
+C:\temp\ws-c#orientadoobjeto\PrimeiroExercicioAulaClasses - Copia\PrimeiroExercicioAulaClasses\bin\Debug\net8.0\PrimeiroExercicioAulaClasses.deps.json
+C:\temp\ws-c#orientadoobjeto\PrimeiroExercicioAulaClasses - Copia\PrimeiroExercicioAulaClasses\bin\Debug\net8.0\PrimeiroExercicioAulaClasses.runtimeconfig.json
+C:\temp\ws-c#orientadoobjeto\PrimeiroExercicioAulaClasses - Copia\PrimeiroExercicioAulaClasses\bin\Debug\net8.0\PrimeiroExercicioAulaClasses.dll
+C:\temp\ws-c#orientadoobjeto\PrimeiroExercicioAulaClasses - Copia\PrimeiroExercicioAulaClasses\bin\Debug\net8.0\PrimeiroExercicioAulaClasses.pdb
+C:\temp\ws-c#orientadoobjeto\PrimeiroExercicioAulaClasses - Copia\PrimeiroExercicioAulaClasses\obj\Debug\net8.0\PrimeiroExercicioAulaClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-c#orientadoobjeto\PrimeiroExercicioAulaClasses - Copia\PrimeiroExercicioAulaClasses\obj\Debug\net8.0\PrimeiroExercicioAulaClasses.AssemblyInfoInputs.cache
+C:\temp\ws-c#orientadoobjeto\PrimeiroExercicioAulaClasses - Copia\PrimeiroExercicioAulaClasses\obj\Debug\net8.0\PrimeiroExercicioAulaClasses.AssemblyInfo.cs
+C:\temp\ws-c#orientadoobjeto\PrimeiroExercicioAulaClasses - Copia\PrimeiroExercicioAulaClasses\obj\Debug\net8.0\PrimeiroExercicioAulaClasses.csproj.CoreCompileInputs.cache
+C:\temp\ws-c#orientadoobjeto\PrimeiroExercicioAulaClasses - Copia\PrimeiroExercicioAulaClasses\obj\Debug\net8.0\PrimeiroExercicioAulaClasses.dll
+C:\temp\ws-c#orientadoobjeto\PrimeiroExercicioAulaClasses - Copia\PrimeiroExercicioAulaClasses\obj\Debug\net8.0\refint\PrimeiroExercicioAulaClasses.dll
+C:\temp\ws-c#orientadoobjeto\PrimeiroExercicioAulaClasses - Copia\PrimeiroExercicioAulaClasses\obj\Debug\net8.0\PrimeiroExercicioAulaClasses.pdb
+C:\temp\ws-c#orientadoobjeto\PrimeiroExercicioAulaClasses - Copia\PrimeiroExercicioAulaClasses\obj\Debug\net8.0\PrimeiroExercicioAulaClasses.genruntimeconfig.cache
+C:\temp\ws-c#orientadoobjeto\PrimeiroExercicioAulaClasses - Copia\PrimeiroExercicioAulaClasses\obj\Debug\net8.0\ref\PrimeiroExercicioAulaClasses.dll
